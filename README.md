@@ -1,6 +1,6 @@
 
  
-### Hi there 👋, I'm Timothy 😳 ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
+### Hi there 👋, I'm Timothy ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
 Frontend Developer for Mobile applications ⚡️ Experimenting with Web3 tools in Flutter and Dart. 
 
